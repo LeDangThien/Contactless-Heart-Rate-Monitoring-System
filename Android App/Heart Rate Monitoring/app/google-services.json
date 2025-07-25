@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379535567469",
+    "firebase_url": "https://heartrate-monitor-system-99d05-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "heartrate-monitor-system-99d05",
+    "storage_bucket": "heartrate-monitor-system-99d05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379535567469:android:9e81f320f4e0d49fb7ed64",
+        "android_client_info": {
+          "package_name": "com.example.heartratemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379535567469-l1uamv42i83s5j5iiu13v40sm1t705ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvMJfZXdixAqmtwDwHb8S9y1vH29uPgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379535567469-l1uamv42i83s5j5iiu13v40sm1t705ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
